@@ -1,5 +1,3 @@
-# Final_project
-final project about python programming
 # Student Management System
 
 ## Project Description
@@ -91,4 +89,3 @@ Student added and saved successfully.
 https://github.com/narendra462/python
 
 Before submission, confirm that the repository link is correct and upload the project files to your repository.
-

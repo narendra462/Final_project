@@ -1,0 +1,27 @@
+SAMPLE OUTPUT (illustrative)
+
+================================================
+       STUDENT MANAGEMENT SYSTEM
+================================================
+1. Add student
+2. View all students
+3. Search student
+4. Update student
+5. Delete student
+6. Exit
+Choose an option (1-6): 1
+Enter student ID: S101
+Enter student name: Asha
+Enter age: 20
+Enter course/department: CSE
+Enter marks for subject 1 (0-100): 90
+Enter marks for subject 2 (0-100): 85
+Enter marks for subject 3 (0-100): 95
+Student added and saved successfully.
+
+Choose an option (1-6): 2
+STUDENT RECORDS
+ID: S101 | Name: Asha | Age: 20 | Course: CSE | Marks: [90.0, 85.0, 95.0] | Percentage: 90.00% | Grade: A+
+
+Choose an option (1-6): 6
+Thank you for using Student Management System.
